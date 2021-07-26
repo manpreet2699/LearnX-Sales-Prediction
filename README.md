@@ -1,2 +1,3 @@
-# LearnX-sales-prediction-
+# LearnX-Sales-Prediction-
 Regression problem
+Problem Statement 
