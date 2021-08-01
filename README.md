@@ -9,7 +9,13 @@ Sales data for more than 2 years from 600 courses of LearnX's top domains is ava
 
 Your task is to predict the course sales for each course in the test set for the next 60 days.
 
+#### Dataset provided
+1)Train
+2)Test
+
 #### Leaderboard Ranks
 Public leaderboard- RMSLE1000 Score = 138.26
+(based on predictions for the first 20 days)
 
 Private leaderboard- RMSLE1000 Score = 142.59
+(based on predictions for the next 40 days)
