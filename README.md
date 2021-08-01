@@ -13,7 +13,7 @@ Your task is to predict the course sales for each course in the test set for the
 1)Train
 2)Test
 
-#### Leaderboard Ranks
+#### Leaderboard Scores
 Public leaderboard- RMSLE1000 Score = 138.26
 (based on predictions for the first 20 days)
 
