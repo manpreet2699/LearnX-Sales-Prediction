@@ -11,4 +11,5 @@ Your task is to predict the course sales for each course in the test set for the
 
 #### Leaderboard Ranks
 Public leaderboard- RMSLE1000 Score = 138.26
+
 Private leaderboard- RMSLE1000 Score = 142.59
